@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "start": "mix phoenix.server & cd client && npm start"
+  }
+}
